@@ -1,4 +1,4 @@
-[**about**]
+[**about.html**]
 
 
 ## Welcome to GitHub Pages
